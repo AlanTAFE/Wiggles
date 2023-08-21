@@ -5,9 +5,12 @@ It travels here and it travels far.
 
 ## Smaller heading
 
+***This text is in bold and italic***
+
 **This text is in bold**
 
 *This text is in italics*
+
 
 [Click here for the big Blue car but it's red](https://www.youtube.com/watch?v=VWlNh8a8Xpk)
 
